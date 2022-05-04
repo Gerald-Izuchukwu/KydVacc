@@ -1,0 +1,29 @@
+{
+  "name": "kydvacc",
+  "version": "1.0.0",
+  "description": "An API for an app that helps users check and get updated for when thier child is due for vaccination",
+  "main": "server.js",
+  "scripts": {
+    "start": "node",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gerald-Izuchukwu/KydVacc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gerald-Izuchukwu/KydVacc/issues"
+  },
+  "homepage": "https://github.com/Gerald-Izuchukwu/KydVacc#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
