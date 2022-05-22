@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Chiamaka Bond",
+		"age": 5,
+		"sex": "female"
+	},
+
+	{ "name": "Samuel Bond", "age": 3, "sex": "male" },
+
+	{
+		"name": "Wayne Parker",
+		"age": 7,
+		"sex": "male"
+	},
+
+	{
+		"name": "Wayde Parker",
+		"age": 12,
+		"sex": "female"
+	},
+	{
+		"name": "Ryan America",
+		"age": 7,
+		"sex": "male"
+	},
+
+	{
+		"name": "Raine America",
+		"age": 7,
+		"sex": "female"
+	}
+]

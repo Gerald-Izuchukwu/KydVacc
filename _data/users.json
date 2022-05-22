@@ -1,0 +1,25 @@
+[
+	{
+		"id": "",
+		"name": "James Bond",
+		"email": "jamesbond@gmail.com",
+		"role": "admin",
+		"password": "james-bond5"
+	},
+
+	{
+		"id": "",
+		"name": "Peter Parker",
+		"email": "peterparker@gmail.com",
+		"role": "user",
+		"password": "peter-parker5"
+	},
+
+	{
+		"id": "",
+		"name": "Captain America",
+		"email": "captainamerica@gmail.com",
+		"role": "user",
+		"password": "captain-america5"
+	}
+]

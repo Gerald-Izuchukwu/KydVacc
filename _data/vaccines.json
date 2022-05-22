@@ -1,0 +1,22 @@
+[
+	{
+		"id": "1",
+		"name": "Polio Vaccine",
+		"givenAt": "Six Months",
+		"dosage": "Once"
+	},
+
+	{
+		"id": "2",
+		"name": "Chicken-Pox Vaccine",
+		"givenAt": "Six Months",
+		"dosage": "Once"
+	},
+
+	{
+		"id": "3",
+		"name": "Measles Vaccine",
+		"givenAt": "Six Months",
+		"dosage": "Twice"
+	}
+]
